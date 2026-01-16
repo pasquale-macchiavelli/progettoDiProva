@@ -1,2 +1,2 @@
 print ("Hello world!")
-num = int(input)
+num = int(input("Inserire numero intero: "))
